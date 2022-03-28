@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Collaborator name="Sam" type="Carer" time="10:00-17:00" lat="1.357328" lon="103.859915" pic="../Content/Images/Sam.png" />
+</root>
