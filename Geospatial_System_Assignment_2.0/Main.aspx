@@ -73,7 +73,7 @@
         <div id="map" runat="server"></div>
         <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
         <script async
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB5PqYRjT00_jt8bN18EzmyjJSmxT-gDhE&callback=initMap&libraries=&v=weekly">
+            src="https://maps.googleapis.com/maps/api/js?key=REMOVED&callback=initMap&libraries=&v=weekly">
         </script>
     </form>
 </body>
